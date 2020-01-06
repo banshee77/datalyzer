@@ -1,0 +1,15 @@
+{
+  "name": "datalyzer",
+  "version": "1.0.0",
+  "description": "ETL and data analysis pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wieslaw Pedzich <wieslaw.pedzich@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.0.2",
+    "fs": "0.0.1-security"
+  }
+}
