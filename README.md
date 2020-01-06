@@ -13,12 +13,13 @@ You can conect with QuickSight to Kinesis Firehose stream bucket for GDELT data 
 Deploy Datalyzer
 ```
 sls deploy -v
+sls remove -v
+
 aws s3 cp "<local_path>\20200105203000.export.csv" s3://<destnation_bucket>
 sls logs -f ingestGdeltData
 ```
 
 Delete Datalyzer
 ```
-sls remove -v
 sls info -v
 ```
