@@ -8,7 +8,7 @@ You can conect with QuickSight to Kinesis Firehose stream bucket for GDELT data 
 * [GDELT website](https://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime)
 * [GDELT data](http://data.gdeltproject.org/gdeltv2/20200105203000.export.CSV.zip)
 
-### SLS Commands
+## SLS Commands
 
 A step by step series of examples that tell you how to get a development env running
 
