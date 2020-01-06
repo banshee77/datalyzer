@@ -10,10 +10,6 @@ You can conect with QuickSight to Kinesis Firehose stream bucket for GDELT data 
 
 ## SLS Commands
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
 ```
 sls deploy -v
 
