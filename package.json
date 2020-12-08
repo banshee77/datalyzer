@@ -9,7 +9,7 @@
   "author": "Wieslaw Pedzich <wieslaw.pedzich@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "fast-csv": "^4.0.2",
+    "fast-csv": "^4.3.6",
     "fs": "0.0.1-security"
   }
 }
